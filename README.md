@@ -273,9 +273,4 @@ $ python3 unittest -m discover tests
 Alternatively, you can specify a single test file to run at a time:
 
 ```
-$ python3 unittest -m tests/test_console.py
-```
-
-## Authors :black_nib:
-* **Brennan D Baraban** <[bdbaraban](https://github.com/bdbaraban)>
-* **Samie Azad** <[sazad44](https://github.com/sazad44)>
+$ python3 unittest -m tests/test_console
